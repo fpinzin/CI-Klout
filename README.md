@@ -1,4 +1,4 @@
-[CI-Klout]
+CI-Klout
 =================
 
 This is a CodeIgniter library for the Klout v2 API. http://klout.com/s/developers/v2  It's created by [Frank Pinzin](https://twitter.com/#!/fpinzin)
